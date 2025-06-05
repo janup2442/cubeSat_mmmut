@@ -1,1 +1,1 @@
-(https://hexstaruniverse.com/product/cubesat-kit/)
+- 99 dollars cubesat kit for testing analysis purpose : [https://hexstaruniverse.com/product/cubesat-kit]
