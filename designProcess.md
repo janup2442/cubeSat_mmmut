@@ -5,7 +5,7 @@
 
 ## 3. Spatial Assumptions ##
 - Will be released at 400-600Km altitude.
-- will orbit in SSO
+- will orbit in SSO i.e. Sun Synchronous Orbit (almost every cubesat mission have choosen this orbit , its very likely that lauch provider will also prefer to release it SSO)
 - based on data , after release its velocity will be around 7500+ m/s , with that speed roughly It will take say 95 min to complete one orbit
 - Based on that in 24 hrs , it will complete 15-16 orbits , in which ground pass will be only happen for 4-5 times (in that 4-5 times/day , ground pass we have to connect via Radio tlm).
 
