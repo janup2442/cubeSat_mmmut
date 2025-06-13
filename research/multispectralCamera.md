@@ -1,5 +1,8 @@
 # Multi Sectral cameras for Cubesats #
 > Information about Multispectral Imaging [wiki](https://en.wikipedia.org/wiki/Multispectral_imaging)
+> we want a space ready camera with 30+ m GSD and 60km+ swath .
+> should have on board storage and compression.
+> size must be within 1U
 
 
 | **Option (Vendor)**         | **Bands**                 | **GSD @500 km**        | **Swath**           | **Size/Mass**             | **Power** | **Rad Tol.**      | **Est. Cost**      |
